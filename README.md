@@ -34,8 +34,3 @@
 * Gen-Jp
 * Twitter : [https://twitter.com/Cpp_Learning](https://x.com/PythonGen)
  
-# License
-"Physics_Sim_Py" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
-
- 
-Thank you!
